@@ -3,6 +3,7 @@
 ## Recuring Meetups
 
 - [Front-end Development South Africa (FEDSA)](https://www.meetup.com/fedsa-community/)
+- [PHP South Africa](https://phpsouthafrica.org)
 
 ## Conferences
 
