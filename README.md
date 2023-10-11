@@ -9,3 +9,4 @@
 - [DevConf](https://www.devconf.co.za/)
 - [DataConf](https://www.dataconf.co.za/)
 - [UX SA](https://uxsouthafrica.com/)
+- [PyconZA](https://za.pycon.org/)
