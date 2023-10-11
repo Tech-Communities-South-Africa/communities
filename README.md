@@ -3,6 +3,9 @@
 ## Recuring Meetups
 
 - [Front-end Development South Africa (FEDSA)](https://www.meetup.com/fedsa-community/)
+- [Indie Hackers Cape Town](https://www.meetup.com/indie-hackers-cape-town/)
+- [Lean (Startup) Coffee](https://www.meetup.com/lean-startup-coffee/)
+- [Tech Leadership](https://www.meetup.com/tech-leadership-meetup/)
 - [PHP South Africa](https://phpsouthafrica.org)
 
 ## Conferences
