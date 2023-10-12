@@ -7,6 +7,7 @@
 - [Lean (Startup) Coffee](https://www.meetup.com/lean-startup-coffee/)
 - [PHP South Africa](https://phpsouthafrica.org)
 - [Tech Leadership](https://www.meetup.com/tech-leadership-meetup/)
+- [Cape Town AWS Meetup](https://www.meetup.com/cape-town-aws/)
 
 ## Conferences
 
@@ -14,3 +15,4 @@
 - [DevConf](https://www.devconf.co.za/)
 - [PyconZA](https://za.pycon.org/)
 - [UX SA](https://uxsouthafrica.com/)
+- [ServerlessDays Cape Town](https://capetown.serverlessdays.io/)
