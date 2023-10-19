@@ -1,6 +1,6 @@
 # Communities, Events and Meetups
 
-## Recuring Meetups
+## Recurring Meetups
 
 - [Deep South Devs](https://www.meetup.com/deepsouthdevs/)
 - [Front-end Development South Africa (FEDSA)](https://www.meetup.com/fedsa-community/)
@@ -10,7 +10,7 @@
 - [Tech Leadership](https://www.meetup.com/tech-leadership-meetup/)
 - [Cape Town AWS Meetup](https://www.meetup.com/cape-town-aws/)
 
-## Conferences
+## Annual Conferences
 
 - [DataConf](https://www.dataconf.co.za/)
 - [DevConf](https://www.devconf.co.za/)
