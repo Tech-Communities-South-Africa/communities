@@ -9,6 +9,7 @@
 - [PHP South Africa](https://phpsouthafrica.org)
 - [Tech Leadership](https://www.meetup.com/tech-leadership-meetup/)
 - [Cape Town AWS Meetup](https://www.meetup.com/cape-town-aws/)
+- [Cape Town Python Users' Group (CTPUG)](https://www.meetup.com/cape-town-python-users-group-ctpug/)
 
 ## Annual Conferences
 
